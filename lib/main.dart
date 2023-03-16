@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Material(
         child: Center(
-          child: Text("Welcome Tico to Flutter"),
+          child: Text("Welcome Tico to Flutter 1"),
         ),
       ),
     );
